@@ -27,7 +27,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
  
 #### Video Tutorial 
 
-[![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.mp4?raw=true)
+[![Video Tutorial](https://github.com/suman333mondal/CameraHackingBot/releases/download/1.1/cam.mp4)](https://github.com/suman333mondal/CameraHackingBot/releases/download/1.1/cam.mp4?raw=true)
  
 
 ### How to build
