@@ -10,8 +10,7 @@
 <h2>⚠️ DISCLAIMER ⚠️</h2>
 <h3>This bot is available only for educational purposes. We are not promoting any illegal activities Please use this bot responsibly..</h4>
 
-<div align="center">
-<div align="center">
+<p><br></p>
 <br>
 
 [![https://telegram.me/onlinehacking](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/onlinehacking)
