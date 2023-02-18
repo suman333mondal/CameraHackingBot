@@ -19,8 +19,13 @@
 This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
 ### Try it at [@CameraHackingBot](https://t.me/CameraHackingBot)
 
+<p><br></p>
+
+### How to build Repl.it
 
 [![Run on Repl.it](https://repl.it/badge/github/suman333mondal/CameraHackingBot)](https://repl.it/github/suman333mondal/CameraHackingBot)
+ 
+ <p><br></p>
  
 #### Video Tutorial 
 
