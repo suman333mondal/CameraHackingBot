@@ -1,20 +1,29 @@
 
-<p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
+<p align='center'><img style="height:100px;width:100px" src="https://te.legra.ph/file/167b6f9e71a4df6e184d7.jpg" ></p>
 
-<h2 align='center'>Track Down people by just using a link.</h2>
+<h2 align='center'>🔰 Welcome to Camera Hacking Bot. If you use this bot, then you can track exact photos, location with device information of anyone through a link 🔥. </h2>
+<div align="center">
+<br>
+<h3>This bot can track a person's location , can snap their picture, and gathers a lot of information regarding their device.</h3>
+<div align="center">
+<br>
+<h2>⚠️ DISCLAIMER ⚠️</h2>
+<h3>This bot is available only for educational purposes. We are not promoting any illegal activities Please use this bot responsibly..</h4>
 
 <div align="center">
+<div align="center">
+<br>
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+[![https://telegram.me/onlinehacking](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/onlinehacking)
+[![https://telegram.me/onlinehacking](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/onlinehacking)
 
 </div>
 
 This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@TrackDownRoBot](https://t.me/TrackDownRoBot)
+### Try it at [@CameraHackingBot](https://t.me/CameraHackingBot)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
+[![Run on Repl.it](https://repl.it/badge/github/suman333mondal/CameraHackingBot)](https://repl.it/github/suman333mondal/CameraHackingBot)
  
 #### Video Tutorial 
 
